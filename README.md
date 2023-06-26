@@ -3,7 +3,7 @@
 </p>
 
 
-# <h1 align="center"> Programe-se/Serasa/Whise Hands </h1>
+# <h1 align="center"> Programe-se/Serasa/Wise Hands </h1>
 Bem-vindo ao meu repositório oficial do programa Programe-se/Serasa! Aqui você encontrará todas as atividades e projetos que estou desenvolvendo durante o curso de Python.
 
 # Sobre o Programe-se/Serasa

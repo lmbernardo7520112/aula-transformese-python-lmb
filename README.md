@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/lmbernardo7520112/aula-transformese-python-lmb/assets/56771959/9158e1f8-1e6c-4edd-b866-c5c02e631480" alt="Image">
+  <img src="https://github.com/lmbernardo7520112/aula-transformese-python-lmb/assets/56771959/9158e1f8-1e6c-4edd-b866-c5c02e631480" alt="Image" width="500">
 </p>
+
 
 # <h1 align="center"> Programe-se/Serasa/Whise Hands </h1>
 Bem-vindo ao meu repositório oficial do programa Programe-se/Serasa! Aqui você encontrará todas as atividades e projetos que estou desenvolvendo durante o curso de Python.
